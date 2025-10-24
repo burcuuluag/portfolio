@@ -11,6 +11,14 @@ __pycache__/
 # Push etmek istemediğim dosyalar
 numpy.ipynb
 
+# Test için veriler
+eventid.json
+afad_deprem_bot/filter.xml
+hava_durumu_bot/weather.json
+muge_anli_bot/ids.json
+muge_anli_bot/rss1.xml
+sbe_duyuru_bot/sbe.xml
+
 # Mac/Windows sistem dosyaları
 .DS_Store
 Thumbs.db
