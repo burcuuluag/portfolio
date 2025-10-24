@@ -1,0 +1,16 @@
+# Virtual environment
+env/
+
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Push etmek istemediğim dosyalar
+numpy.ipynb
+
+# Mac/Windows sistem dosyaları
+.DS_Store
+Thumbs.db
