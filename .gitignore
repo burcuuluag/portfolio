@@ -10,6 +10,7 @@ __pycache__/
 
 # Push etmek istemediğim dosyalar
 numpy.ipynb
+pandas.ipynb
 
 # Test için veriler
 eventid.json
