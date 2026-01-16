@@ -4,9 +4,9 @@ Bu bot, Dokuz Eylül Üniversitesi Sosyal Bilimler Enstitüsü'nün (SBE) RSS fe
 
 ### Öne Çıkan Özellikler:
 
-* **Asenkron Çalışma:** `asyncio` altyapısı ile sistem kaynaklarını yormadan çalışır.
-* **Birim Testleri (Unit Testing):** Proje, `unittest` ve `mock` kütüphaneleriyle test edilmiş fonksiyonlara sahiptir.
-* **Akıllı Filtreleme:** Sadece sisteme daha önce düşmemiş olan "yeni" duyuruları ayıklar ve gönderir.
+**Asenkron Çalışma:** `asyncio` altyapısı ile sistem kaynaklarını yormadan çalışır.
+**Birim Testleri (Unit Testing):** Proje, `unittest` ve `mock` kütüphaneleriyle test edilmiş fonksiyonlara sahiptir.
+**Akıllı Filtreleme:** Sadece sisteme daha önce düşmemiş olan "yeni" duyuruları ayıklar ve gönderir.
 
 ## Kurulum
 ```bash
