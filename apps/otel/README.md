@@ -1,4 +1,4 @@
-# Project: Hotel Management System & Stay Prediction
+# Hotel Management System & Stay Prediction
 
 Bu proje, bir butik otelin hem operasyonel yönetimini hem de veri odaklı müşteri analizini kapsayan iki aşamalı bir çalışmadır. Nesne yönelimli programlama (OOP) prensipleriyle geliştirilen yönetim modülü, gerçek dünya verileriyle eğitilmiş makine öğrenmesi modelleriyle desteklenmiştir.
 
@@ -12,7 +12,9 @@ Bu proje, bir butik otelin hem operasyonel yönetimini hem de veri odaklı müş
 
 *Gerçek Zamanlı Durum Takibi:* Oteldeki anlık boş oda sayısı ve personel maliyetleri gibi kritik veriler sistem üzerinden raporlanabilmektedir.
 
-### 2. Veri Analizi ve Konaklama Tahmini (Prediction): Otel misafirlerinin demografik bilgilerini (gelir, eğitim, aile durumu vb.) kullanarak müşteri davranışlarını anlamlandırmayı hedefler:
+### 2. Veri Analizi ve Konaklama Tahmini (Prediction): 
+
+Otel misafirlerinin demografik bilgilerini (gelir, eğitim, aile durumu vb.) kullanarak müşteri davranışlarını anlamlandırmayı hedefler:
 
 *Oda Tipi Önerisi:* DecisionTreeClassifier kullanılarak, yeni bir misafirin profilinden (gelir, yaş, çocuk sayısı) yola çıkarak hangi oda tipini tercih edeceği tahmin edilir.
 
@@ -20,7 +22,7 @@ Bu proje, bir butik otelin hem operasyonel yönetimini hem de veri odaklı müş
 
 *Bulgu:* Gelir ile konaklama süresi arasında zayıf bir korelasyon (0.34) saptanmış, bu durum konaklama süresinin sadece bütçeye değil, diğer yaşam tarzı faktörlerine de bağlı olduğunu göstermiştir.
 
-Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
 *Python (OOP):* Sınıf yapıları, kalıtım ve tarih-saat yönetimi (datetime).
 
