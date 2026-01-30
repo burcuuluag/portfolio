@@ -16,8 +16,8 @@ pandas.ipynb
 eventid.json
 chatbot_projects/afad_deprem_bot/filter.xml
 chatbot_projects/hava_durumu_bot/weather.json
-chatbot_projects/muge_anli_bot/ids.json
-chatbot_projects/muge_anli_bot/rss1.xml
+chatbot_projects/gundem_takip_bot/ids.json
+chatbot_projects/gundem_takip_bot/rss1.xml
 chatbot_projects/sbe_duyuru_bot/sbe.xml
 
 # Mac/Windows sistem dosyaları
